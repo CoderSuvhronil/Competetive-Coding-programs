@@ -25,7 +25,7 @@ int main()
 	if (isSpyNumber (n))
 	    printf("%d is a Spy Number\n", n);
 	else
-	    printf("%d is a Spy Number\n", n);
+	    printf("%d is not a Spy Number\n", n);
 	    
 	
 	return 0;
