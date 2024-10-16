@@ -30,9 +30,9 @@ int main()
 	scanf("%d",&num);
 	
 	if (isDisarium(num))
-		printf("%d is a Armstrong Number\n", num);
+		printf("%d is a Disarium Number\n", num);
 	else
-	   printf("%d is not an Armstrong Number\n", num);
+	   printf("%d is not a Disarium Number\n", num);
 	   
 	return 0;
 }
